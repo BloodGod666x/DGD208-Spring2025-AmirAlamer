@@ -1,0 +1,28 @@
+C:\Users\eden\source\repos\Pet Simulatorsss\bin\Debug\net9.0\Pet Simulatorsss.exe
+C:\Users\eden\source\repos\Pet Simulatorsss\bin\Debug\net9.0\Pet Simulatorsss.deps.json
+C:\Users\eden\source\repos\Pet Simulatorsss\bin\Debug\net9.0\Pet Simulatorsss.runtimeconfig.json
+C:\Users\eden\source\repos\Pet Simulatorsss\bin\Debug\net9.0\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Pet Simulatorsss\bin\Debug\net9.0\Pet Simulatorsss.pdb
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.AssemblyInfoInputs.cache
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.AssemblyInfo.cs
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.csproj.CoreCompileInputs.cache
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\refint\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.pdb
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\Pet Simulatorsss.genruntimeconfig.cache
+C:\Users\eden\source\repos\Pet Simulatorsss\obj\Debug\net9.0\ref\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.AssemblyInfoInputs.cache
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.AssemblyInfo.cs
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.csproj.CoreCompileInputs.cache
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\refint\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.pdb
+C:\Users\eden\source\repos\Game_Programming_2_Project\bin\Debug\net9.0\Pet Simulatorsss.exe
+C:\Users\eden\source\repos\Game_Programming_2_Project\bin\Debug\net9.0\Pet Simulatorsss.deps.json
+C:\Users\eden\source\repos\Game_Programming_2_Project\bin\Debug\net9.0\Pet Simulatorsss.runtimeconfig.json
+C:\Users\eden\source\repos\Game_Programming_2_Project\bin\Debug\net9.0\Pet Simulatorsss.dll
+C:\Users\eden\source\repos\Game_Programming_2_Project\bin\Debug\net9.0\Pet Simulatorsss.pdb
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\Pet Simulatorsss.genruntimeconfig.cache
+C:\Users\eden\source\repos\Game_Programming_2_Project\obj\Debug\net9.0\ref\Pet Simulatorsss.dll
